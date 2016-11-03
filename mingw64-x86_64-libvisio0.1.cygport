@@ -3,7 +3,7 @@ inherit cross
 
 NAME="mingw64-x86_64-libvisio0.1"
 VERSION=0.1.5
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="Visio import filter library for Win64 toolchain"
 DESCRIPTION="Libvisio is a library providing ability to interpret and import
